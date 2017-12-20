@@ -10,6 +10,8 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello oleg");
+            Console.WriteLine("My name is Vova");
             Console.WriteLine("Hello from Oleh!");
         }
     }
