@@ -13,6 +13,7 @@ namespace ConsoleApp3
             Console.WriteLine("Hello oleg");
             Console.WriteLine("My name is Vova");
             Console.WriteLine("Hello from Oleh!");
+            Console.WriteLine("rrrrrr");
         }
     }
 }
